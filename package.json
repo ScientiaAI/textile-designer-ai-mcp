@@ -1,0 +1,35 @@
+{
+  "name": "@textile-designer-ai/mcp",
+  "version": "0.1.1",
+  "mcpName": "ai.textile-designer/mcp",
+  "description": "MCP server for Textile Designer AI: run the design tools from Claude Code, Claude Desktop, Codex or any MCP client.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "textile-designer-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "textile",
+    "design",
+    "claude",
+    "codex"
+  ],
+  "homepage": "https://www.textile-designer.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScientiaAI/textile-designer-ai-mcp.git"
+  },
+  "bugs": {
+    "url": "https://www.textile-designer.ai/contact"
+  }
+}
