@@ -1,6 +1,6 @@
 {
   "name": "@textile-designer-ai/mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "mcpName": "ai.textile-designer/mcp",
   "description": "MCP server for Textile Designer AI: run the design tools from Claude Code, Claude Desktop, Codex or any MCP client.",
   "license": "MIT",
